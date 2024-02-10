@@ -1,0 +1,9 @@
+h1 {
+  color: black;
+}
+
+<!-- I added the h1 here so I can easily check if I made changes,
+simply by filling this in -- > .weather-app-wrapper {
+  max-width: 600px;
+  margin: 30px auto;
+}
